@@ -1,1 +1,1 @@
-android.ide.template.mvc
+Android Studio automatic MVC pattern creates Activity and Controller for my android template
