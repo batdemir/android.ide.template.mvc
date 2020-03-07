@@ -8,7 +8,7 @@ public class ${mainActivityClass}Activity extends BaseActivity<Activity${mainAct
 
     @Override
     public void onCreated() {
-        init(R.layout.${mainActivityLayout}, "${mainActivityClass}");
+        init("${mainActivityClass}");
     }
 
     @Override
